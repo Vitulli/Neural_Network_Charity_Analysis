@@ -56,6 +56,9 @@
   - Increased Hidden Layers
   - Different Layer Models
 
+## Summary
+### Overall there could be multiple different techinques for increasing the accuracy.  More hidden layers, different classification models, and increasing nodes.
+
   
 
      
