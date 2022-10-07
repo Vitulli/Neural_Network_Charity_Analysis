@@ -57,7 +57,7 @@
   - Different Layer Models
 
 ## Summary
-### Overall there could be multiple different techinques for increasing the accuracy.  More hidden layers, different classification models, and increasing nodes.
+### Overall there could be multiple different techinques for increasing the accuracy.  More hidden layers, different classification models, and increasing nodes.  Simply spending time may increase the accuracy figures to figure out the best fit.
 
   
 
